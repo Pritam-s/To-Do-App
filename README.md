@@ -1,6 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<video width="320" height="240" controls><source src="https://github.com/Pritam-s/UI_Prototypes-Concepts/blob/main/Laravel_ToDo_Demo%20from%2007-07-22%2003:04:39%20PM%20IST.webm?raw=true" type="video/mp4">
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_gouzvi55.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
