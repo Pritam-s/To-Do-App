@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Pritam-s/UI_Prototypes-Concepts/main/Laravel_ToDo_Demo_animation_640_l5b295mn.gif" alt="Computer man" style="width:48px;height:48px;">
+<img src="https://raw.githubusercontent.com/Pritam-s/UI_Prototypes-Concepts/main/Laravel_ToDo_Demo_animation_640_l5b295mn.gif" alt="Computer man" >
 </p>
 
 <p align="center">
