@@ -1,3 +1,3 @@
-<h2 style="font-size: 2.5rem">
+<h2 style="font-size: 1.4rem">
   Achieveee
 </h2>
